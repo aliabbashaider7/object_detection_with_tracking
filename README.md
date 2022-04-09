@@ -26,8 +26,5 @@ Download the pretrained yolov5s.pt model from [here](https://drive.google.com/fi
 
 # Inference
 Other than tracking model dependencies, You'll need to install all the dependencies of your own object detection algorithm of course. This integration is done with simple yolov5s object detection model. Run object_tracker.py after setting up correct video path as input in the script.
-
-
-https://user-images.githubusercontent.com/84595846/162565198-ad4b5ceb-66f1-43ea-b1c1-549ff74bd0de.mp4
-
+![output](https://user-images.githubusercontent.com/84595846/162565310-95719314-90ba-4d7e-ac81-f1455cddf2e9.gif)
 
